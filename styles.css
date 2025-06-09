@@ -341,7 +341,6 @@ canvas {
     display: flex;
     justify-content: center;
     align-content: center;
-    width:100%;
     flex-wrap: wrap;
     padding:30px;
 
