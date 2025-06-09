@@ -71,7 +71,7 @@ body#grad1{
     position: fixed;
     top:0;
     left:0;
-    width:100%;
+    width:100vw;
     height:fit-content;
     background:linear-gradient(90deg, transparent, rgba(20, 20, 20, 0.517), transparent);
     box-shadow:0px 5px 30px rgba(159, 159, 159, 0.3), 5px 7px 14px rgba(192, 192, 192, 0.3) inset;
